@@ -12,7 +12,7 @@ stoibererr@gmail.com | +43 650 9600183 | linkedin.com/in/richardstoiberer/ | git
 **Rollins College** — Winter Park, FL  
 *B.S. in International Business & Computer Science (Minors: Data Analytics, Spanish)* | Aug 2022 – May 2026  
 * **GPA:** 3.99 / 4.00 (Summa Cum Laude)  
-* **Honors:** Academic All-America®, General Charles McCormick Reeve Award, Beta Gamma Sigma, 91st Percentile ETS Business Test  
+* **Honors:** NCAA Postgraduate Scholarship Winner, Academic All-America®, General Charles McCormick Reeve Award, Beta Gamma Sigma, 91st Percentile ETS Business Test
 
 **Bundesgymnasium Hallein** — Hallein, Austria  
 *Matura (Language-Focused Curriculum)* | Sep 2013 – May 2021  
