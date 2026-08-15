@@ -1,6 +1,6 @@
 # RICHARD STOIBERER
 Orlando, FL | Salzburg, Austria | London, UK  
-stoibererr@gmail.com | +43 650 9600183 | linkedin.com/in/richardstoiberer/ | github.com/rstoiberer
+stoibererr@gmail.com | +43 650 9600183 | linkedin.com/in/richardstoiberer | github.com/rstoiberer
 
 ---
 
@@ -10,7 +10,7 @@ stoibererr@gmail.com | +43 650 9600183 | linkedin.com/in/richardstoiberer/ | git
 *MSc in Data Science* | Sep 2026 – Sep 2027
 
 **Rollins College** — Winter Park, FL  
-*B.S. in International Business & Computer Science (Minors: Data Analytics, Spanish)* | Aug 2022 – May 2026  
+*B.A. in International Business & Computer Science (Minors: Data Analytics, Spanish)* | Aug 2022 – May 2026  
 * **GPA:** 3.99 / 4.00 (Summa Cum Laude)  
 * **Honors:** NCAA Postgraduate Scholarship Winner, Academic All-America®, General Charles McCormick Reeve Award, Beta Gamma Sigma, 91st Percentile ETS Business Test
 
